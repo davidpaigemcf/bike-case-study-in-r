@@ -9,7 +9,7 @@ Data Cleaning, Data Wrangling, Data Visualization
 - tidyverse
 - lubridate
 - ggmap
--ggplot2
+- ggplot2
 
 ## 🧼 Data cleaning
 The data was retrieved from a .csv file and compiled into one file. The data was stored in a secure local folder. I sorted rows by start date, and ensured its credibility. The data was incomplete, which would affect the second hypothesis in my study. I removed duplicate rows, converted dates the standard ISO 8601 format (yyyy-mm-dd hh:mm:ss), trimmed whitespaces, and placed data in their appropriate categories.
