@@ -12,7 +12,7 @@ Data Cleaning, Data Wrangling, Data Visualization
 - ggplot2
 
 ## 🧼 Data cleaning
-The data was retrieved from a .csv file and compiled into one file. The data was stored in a secure local folder. I sorted rows by start date, and ensured its credibility. The data was incomplete, which would affect the second hypothesis in my study. I removed duplicate rows, converted dates the standard ISO 8601 format (yyyy-mm-dd hh:mm:ss), trimmed whitespaces, and placed data in their appropriate categories.
+The data was first stored as several .csv files in a secure local folder. Using the CLI I compiled them into one and then imported the data into R. I sorted rows by start date, and ensured its credibility. The data was incomplete, which would affect the second hypothesis in my study. I removed duplicate rows, converted dates the standard ISO 8601 format (yyyy-mm-dd hh:mm:ss), trimmed whitespaces, and placed data in their appropriate categories.
 
 
 ## ❓ Big Questions
