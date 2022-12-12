@@ -1,6 +1,6 @@
 # Analyzing Data from a Bike Sharing Service
 
-I completed this case study as the capstone to my Google Data Analytics certificate. In this project, I used Excel, Tableau and R to analyze data collected from a [bike-sharing service in Chicago](https://ride.divvybikes.com/data-license-agreement). I presented my findings in a [report](https://docs.google.com/presentation/d/1o1Zo2Nd1F44H0mtXycDwwzMb8F4x_zgNZuV0IZdqd6c/edit#slide=id.p). This project contains **6,392,409** records of data across 18 variables. The aim of the project was to increase conversions of casual to annual memberships by identifying key differences in each market segment.
+I completed this case study as the capstone to my Google Data Analytics certificate. In this project, I used Excel, [Tableau](https://public.tableau.com/app/profile/david.mcfarlane3586/viz/BikeshareCaseStudyDM/MAIN) and R to analyze data collected from a [bike-sharing service in Chicago](https://ride.divvybikes.com/data-license-agreement). I presented my findings in a [report](https://docs.google.com/presentation/d/1o1Zo2Nd1F44H0mtXycDwwzMb8F4x_zgNZuV0IZdqd6c/edit#slide=id.p). This project contains **6,392,409** records of data across 18 variables. The aim of the project was to increase conversions of casual to annual memberships by identifying key differences in each market segment.
 
 ## 🖥️ R Skills 
 Data Cleaning, Data Wrangling, Data Visualization
