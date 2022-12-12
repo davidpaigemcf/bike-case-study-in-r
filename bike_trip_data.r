@@ -77,6 +77,9 @@ bike_trip_data <- mutate(bike_trip_data,
             duration_secs = abs(difftime(ended_at, started_at, units = "secs"))
           )
 
+#Export Cleaned Data to .csv for Tableau
+write_csv(bike_trip_data, '.../bike_trip_data.csv', col_names = TRUE)
+
 ##==============================================================
 ## SECTION 1: HOW MUCH TIME DO RIDERS SPEND?
 ##==============================================================
